@@ -3,7 +3,7 @@ ___
 ## **1. Types d’attaques**
 ___
 En informatique, l’on parle d’attaque lorsqu’une personne exploite une faille ou une limite dans un système informatique. Les attaques sont classées en type :   
-*	L’interception : c’est un type d’attaque qui consiste à intercepter les données circulant sur un réseau. Ce type d’attaque rassemble une attaque comme le sniffing passif : c’est le fait qu’un utilisateur malveillant espionne un réseau dans lequel il est situé.
+*	L’interception : C’est un type d’attaque qui consiste à intercepter les données circulant sur un réseau. Ce type d’attaque rassemble une attaque comme le sniffing passif : c’est le fait qu’un utilisateur malveillant espionne un réseau dans lequel il est situé.
 
 *	L’interruption : C’est un type d’attaque qui touche la disponibilité de sorte à rendre un système inaccessible. Ici, nous pouvons citer le déni de service qui est une attaque qui consiste à submerger un serveur de trafics inutiles afin de le rendre hors service.
 
@@ -28,7 +28,7 @@ ___
 
 *	MySQL :  .frm, .MYD, .MYI .
 
-*   SQL Server :  .mdf
+* SQL Server :  .mdf
 
 *	Oracle :  .dbf
 
